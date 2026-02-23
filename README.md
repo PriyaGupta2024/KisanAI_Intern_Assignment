@@ -48,10 +48,8 @@ R² Score: 0.9138
 
 ## 🚀 How to Run
 
-1. Install dependencies:
-   pip install -r requirements.txt
 
-2. Open notebooks in Jupyter or VS Code.
+1. Open notebooks in Jupyter or VS Code.
 
 ---
 
@@ -74,10 +72,10 @@ Priya Gupta
 
 The datasets used in this project are publicly available on Kaggle:
 
-1. 🌾 [Crop Recommendation Dataset]([https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset](https://www.kaggle.com/code/analyticaobscura/optimal-fertilizers-eda-playground-0-38265/input?select=Fertilizer+Prediction.csv))
 
-2. 🌱 [Fertilizer Prediction Dataset]([https://www.kaggle.com/code/analyticaobscura/optimal-fertilizers-eda-playground-0-38265](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset))
+1. 🌾 [Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
 
-3. 🌽 [Agriculture Crop Yield Dataset]([https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield](https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield?utm_source=chatgpt.com))
+2. 🌱 [Fertilizer Prediction Dataset](https://www.kaggle.com/code/analyticaobscura/optimal-fertilizers-eda-playground-0-38265/input?select=Fertilizer+Prediction.csv)
 
+3. 🌽 [Agriculture Crop Yield Dataset](https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield)
 > Note: Datasets are not uploaded to this repository due to GitHub size restrictions.( Specially Phase2(B) )
